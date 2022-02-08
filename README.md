@@ -1,3 +1,6 @@
+Adds F2 Score to wandb metrics for yolov5. Implemented steps from [this Kaggle discussion](https://www.kaggle.com/c/tensorflow-great-barrier-reef/discussion/302241), except for fitness function in metrics.py
+
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
